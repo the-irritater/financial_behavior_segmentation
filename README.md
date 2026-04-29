@@ -262,18 +262,6 @@ Built a Python-based financial behavior segmentation project using synthetic sur
 
 ---
 
-## LinkedIn Project Description
-
-Built a financial behavior segmentation model using Python to analyze how behavioral factors like impulse buying, stress spending, and financial literacy impact savings outcomes.
-
-Applied statistical analysis (correlation, ANOVA, regression) and machine learning (PCA, K-Means) to identify distinct user segments.
-
-Found that impulse buying had a strong negative impact on savings (r = -0.49), while financial literacy improved budgeting behavior (r = 0.50).
-
-Translated insights into product strategies such as spending alerts, behavioral nudges, and segment-based financial recommendations for fintech applications.
-
----
-
 ## Limitations
 
 - **Synthetic Data:** Since the dataset is synthetic, analytical relationships (like the regression R² of 0.793) appear stronger than they would in real-world scenarios due to a lack of organic noise. 
@@ -286,8 +274,8 @@ Translated insights into product strategies such as spending alerts, behavioral 
 - **Time-Series Behavior:** Analyze longitudinal data to understand how user behaviors shift over time and in response to macroeconomic events.
 
 ---
-- GitHub: [the-irritater](https://github.com/the-irritater)
-- LinkedIn: [Sanman Kadam](https://www.linkedin.com/in/sanman-kadam-7a4990374/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sanman%20Kadam-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sanman-kadam-7a4990374/)
+[![GitHub](https://img.shields.io/badge/GitHub-the--irritater-black?style=flat&logo=github)](https://github.com/the-irritater)
 ---
 ## Note
 
