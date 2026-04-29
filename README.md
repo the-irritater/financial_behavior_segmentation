@@ -13,7 +13,7 @@ The goal is to identify meaningful behavioral segments based on income, expenses
 
 | Name | Role | GitHub |
 | :--- | :--- | :--- |
-| **the-irritater** | Data Analyst / Data Scientist | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/the-irritater) |
+| **Sanman Kadam** | Data Analyst / Data Scientist | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/the-irritater) |
 
 ## 📊 Project Information
 
@@ -286,7 +286,9 @@ Translated insights into product strategies such as spending alerts, behavioral 
 - **Time-Series Behavior:** Analyze longitudinal data to understand how user behaviors shift over time and in response to macroeconomic events.
 
 ---
-
+- GitHub: [the-irritater](https://github.com/the-irritater)
+- LinkedIn: [Sanman Kadam](https://www.linkedin.com/in/sanman-kadam-7a4990374/)
+---
 ## Note
 
 This dataset is synthetic and created for portfolio and learning purposes. It should not be used for real financial decision-making.
